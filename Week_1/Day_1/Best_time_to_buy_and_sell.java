@@ -1,5 +1,3 @@
-
-
 public class Best_time_to_buy_and_sell {
     public int maxProfit(int[] prices) {
         if (prices == null || prices.length == 0) {
